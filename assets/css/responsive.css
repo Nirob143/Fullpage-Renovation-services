@@ -1,0 +1,105 @@
+/* Medium Layout: 1280px. */
+
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+ .social-icon i {
+	padding-right: 44px;
+}
+.single-footer h5 {
+	padding-right: 21%;
+}
+ 
+}
+
+/* Tablet Layout: 768px. */
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+ #particles-js h4 {
+	font-size: 30px;
+}
+.social-icon i {
+	padding-right: 46px;
+} 
+.single-footer h5 {
+	padding-right: 22%;
+}
+
+}
+/* Mobile Layout: 320px. */
+
+@media only screen and (max-width: 767px) {
+ #particles-js h4 {
+	font-size: 19px;
+}
+.open-head h1 {
+	font-size: 18px;
+}
+.open-head h5 {
+	font-size: 13px;
+}
+.open-head p {
+	font-size: 16px;
+}
+.box-btn {
+	font-size: 12px;
+}
+.text-xl.text-black {
+	font-size: 20px;
+}
+.content.box-middle h5 {
+	color: #fff;
+	font-size: 15px;
+}
+.content.box-middle p {
+	font-size: 16px;
+	color: #fff;
+}
+.advs-box.advs-box-side.boxed-inverse h3 {
+	font-size: 20px;
+}
+.list-item {
+	color: #fff;
+	font-size: 17px;
+}
+.portfolio-overly h4 {
+	font-size: 20px;
+}
+.portfolio-menu li {
+	padding: 5px 6px;
+	font-size: 14px
+}
+.section-title h4 {
+	font-size: 20px;
+}
+.section-title span {
+	font-size: 15px;
+	margin-bottom: 0;
+}
+.title {
+	font-size: 18px;
+	margin-bottom: 20px;
+}
+.event-content h4 {
+	margin-bottom: 20px;
+	font-size: 16px;
+}
+.single-about h1 {
+	font-size: 25px;
+}
+.form input[type="submit"] {
+	width: 50%;
+}
+.social-icon i {
+	padding-right: 44px;
+	margin-bottom: 20px;
+}
+.single-footer h5 {
+	padding-right: 20%;
+}
+
+}
+/* Wide Mobile Layout: 480px. */
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+	
+	
+}
